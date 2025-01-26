@@ -1,1 +1,4 @@
+The data are imported into excel via microsoft power query > get from web 
+Then the data are edited and after that the data are loaded into this excel file 
+Finally the calculations have been done.
 
